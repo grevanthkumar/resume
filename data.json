@@ -1,23 +1,44 @@
 {
   "career":{
     "info":"To pursue a challenging and adventureous job career"
-  }
-},
+  },
 "education":[
    {
-     "degree":"ssc",
-     "school":"Chaitanya Bharathi E.m High School",
-     "yearofpass and result":["2013","93%"]
+     "degree":"SSC",
+     "school":"Sree Vidyanikethan high school",
+     "data":["2013","83%"]
    },
    {
      "degree":"Intermediate",
-     "college":"Sri Siddartha Jr College",
-     "yearofpass and result":["2015","82.4%"]
+     "school":"Sri Chaithanya Junior Kalasala",
+     "data":["2015","83.4%"]
    },
    {
-     "degree":"BTech",
-     "college":"Sree Vidyanikethan Engineering College",
-     "yearofpass and result":["2019","72%"]
+     "degree":"B.Tech",
+     "school":"Sree Vidyanikethan Engineering College",
+     "data":["2019","68%"]
    }
+ ],
+ "skills":[
+   {
+     "name":"Operating System",
+     "info":["windows","linux","ios","ubuntu"]
+     },
+     {
+       "name":"Languages",
+       "info":["C","Java","C++","Python"]
+       },
+       {
+         "name":"Database",
+         "info":["Oracle","My-SQL"]
+         },
+         {
+           "name":"Web-Tecnologies",
+           "info":["Html","CSS","Javascript"]
+         },
+         {
+           "name":"Frameworks",
+           "info":["Bootstrap",".net"]
+         }
  ]
 }
